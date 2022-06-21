@@ -1,0 +1,6 @@
+build/
+ios/
+macos/
+.dart_tool/
+.DS_Store
+.packages
